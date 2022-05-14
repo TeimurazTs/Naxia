@@ -1,0 +1,46 @@
+.section-1 {
+  margin-bottom: 12.5rem;
+}
+
+.main {
+  display: flex;
+  padding: 8rem 0;
+}
+
+.agency-text {
+  width: 64.8rem;
+  flex-shrink: 0;
+  margin-top: 13.5%;
+}
+
+.agency {
+  font-family: GlacialIndifference-Bold;
+  font-size: 8rem;
+  color: #fff;
+  line-height: 108.75%;
+  margin-bottom: 4%;
+}
+
+.golden-rules-text {
+  font-family: Muli-Regular;
+  font-size: 2rem;
+  color: #fff;
+  line-height: 140%;
+  margin-bottom: 8.5%;
+}
+
+.computer-button {
+  border: none;
+  background-color: #EE3364;
+  text-transform: uppercase;
+  color: #fff;
+  font-family: Muli-Bold;
+  font-size: 1.2rem;
+  letter-spacing: 0.625px;
+  padding: 1.5rem 3rem 2.5rem 4.5rem;
+  margin-left: -0.7rem;
+}
+
+.computer-img {
+  margin-left: -0.75rem;
+}

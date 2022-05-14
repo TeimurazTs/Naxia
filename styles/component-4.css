@@ -1,0 +1,70 @@
+.cards-text {
+  font-family: GlacialIndifference-Bold;
+  font-size: 4rem;
+  color: #2E2E2E;
+  text-align: center;
+  line-height: 125%;
+  margin-right: -2.5%;
+  margin-bottom: 5rem;
+}
+
+.glafidianca {
+  font-family: GlacialIndifference-Regular;
+}
+
+.cards-img {
+  filter: brightness(0);
+}
+
+.box-cards {
+  display: flex;
+  gap: 3.7rem;
+  justify-content: center;
+}
+
+.card {
+  background-color: #EDF7FF;
+  padding: 4.4rem 2.7rem 5rem 3.5rem;
+  margin-bottom: 8.7rem;
+}
+
+.background-white {
+  background-color: #fff;
+  width: 8rem;
+  height: 8rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+}
+
+.big-font-text {
+  font-family: GlacialIndifference-Bold;
+  font-size: 2.5rem;
+  margin-bottom: 2.8rem;
+}
+
+.sm-font-text {
+  font-family: Muli-Regular;
+  font-size: 1.5rem;
+  line-height: 160%;
+  color: #838383;
+}
+
+.button-cards {
+  display: inline-block;
+  margin: 0 auto;
+}
+
+.button-cards {
+  border: none;
+  background-color: #EE3364;
+  color: #FFFFFF;
+  font-family: Muli-bold;
+  font-size: 1.4rem;
+  width: 20.3rem;
+  height: 6.5rem;
+  margin-left: 42.1%;
+  margin-bottom: 14rem;
+}

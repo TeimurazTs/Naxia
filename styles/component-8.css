@@ -1,0 +1,70 @@
+.container-orange {
+  width: 119rem;
+  margin: 0 auto;
+  padding: 14rem 0;
+  display: flex;
+  gap: 17.6rem;
+}
+
+.orange-box {
+  height: 54.7rem;
+  width: 42.6rem;
+  background-color: #ffa723;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.orange-box-second {
+  position: absolute;
+  height: 54.7rem;
+  width: 42.6rem;
+  background-color: #ffa723;
+  top: 8.9%;
+  left: 18.1%;
+  box-shadow: 0.45rem 0.172rem 5rem black;
+}
+
+.orange-bg-text {
+  font-family: GlacialIndifference-Bold;
+  font-size: 4.5rem;
+  color: #1c1c1c;
+  letter-spacing: -0.095rem;
+  margin-top: 4.5rem;
+}
+
+.orange-sm-text {
+  font-family: Muli-Regular;
+  font-size: 1.6rem;
+  line-height: 156.25%;
+  color: #8b8b8b;
+  margin-top: 3.2rem;
+}
+
+.orange-ul li p {
+  font-family: GlacialIndifference-Bold;
+  font-size: 1.7rem;
+  line-height: 247%;
+  color: #383838;
+}
+
+.orange-ul li {
+  display: flex;
+  align-items: center;
+  gap: 1.65rem;
+}
+
+.orange-ul {
+  margin-top: 0.5rem;
+}
+
+.orange-button {
+  border: none;
+  background-color: #ee3364;
+  color: #ffffff;
+  font-family: Muli-bold;
+  font-size: 1.4rem;
+  width: 18.3rem;
+  height: 5.1rem;
+  margin-top: 4.3rem;
+  margin-bottom: 2rem;
+}

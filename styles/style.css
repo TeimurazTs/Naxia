@@ -1,0 +1,21 @@
+html {
+  font-size: 62.5%;
+}
+
+.container {
+  max-width: 116rem;
+  margin: 0 auto;
+}
+
+
+.section-1 {
+  background-image: url('../images/img/bgshape.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}

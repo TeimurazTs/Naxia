@@ -1,0 +1,48 @@
+.aside {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.header-small-part {
+  display: flex;
+  justify-content: space-between;
+  padding: 1.53rem 0;
+}
+
+.header-contact {
+  display: flex;
+  gap: 8rem;
+}
+
+.header-sm-icons {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.header-sm-icons img:nth-child(2) {
+  filter: brightness(0.65);
+}
+
+.header-sm-icons img:hover {
+  filter: brightness(0.5);
+}
+
+.email-icon {
+  width: 1.8rem;
+  height: 1.4rem;
+  margin-right: 2rem;
+}
+
+.phone-icon {
+  width: 1.8rem;
+  height: 1.4rem;
+  margin-right: 1rem;
+}
+
+.header-email,
+.header-phone {
+  font-family: Muli-Regular;
+  font-size: 1.6rem;
+  text-decoration: none;
+  color: #aaa;
+}

@@ -1,0 +1,113 @@
+.services {
+  max-width: 117rem;
+  margin: 0 auto;
+  padding: 13.5rem 0 13.9rem 0;
+}
+
+.services-card {
+  width: 37rem;
+  height: 53rem;
+  border: 4px solid #eeeeee;
+}
+
+.services-cards {
+  display: flex;
+  gap: 3rem;
+}
+
+.services-sm-text {
+  font-family: GlacialIndifference-Bold;
+  font-size: 1.3rem;
+  color: #ee3364;
+  text-align: center;
+  margin-top: 0.5rem;
+  padding-right: 1.1rem;
+}
+
+.services-bg-text {
+  font-family: GlacialIndifference-Bold;
+  font-size: 6.5rem;
+  color: #262526;
+  text-align: center;
+  padding: 0.5rem 0 0 1.4rem;
+  margin-bottom: 5rem;
+}
+
+.services-card {
+  padding: 6.8rem 0 8rem 0;
+}
+
+.basic {
+  font-family: GlacialIndifference-Bold;
+  font-size: 3rem;
+  text-align: center;
+  color: #1e1e1e;
+  margin-bottom: 1.5rem;
+}
+
+.month {
+  font-family: Muli;
+  font-size: 1.3rem;
+  color: #0b0b0b;
+  text-align: center;
+  letter-spacing: 0.09rem;
+  padding-right: 0.9rem;
+  margin-bottom: 1.2rem;
+}
+
+.dollar {
+  font-family: GlacialIndifference-Bold;
+  font-size: 8rem;
+  color: #0b0b0b;
+  text-align: center;
+  margin: 0 9rem 6.1rem 0;
+}
+
+.dollar span {
+  font-size: 3.6rem;
+}
+
+.bg-10 {
+  font-family: Cambay-Regular;
+  font-size: 1.6rem;
+  color: #636363;
+  text-align: center;
+  margin-bottom: 1.4rem;
+}
+
+.bg-10 span {
+  color: #8799a3;
+}
+
+.service-button {
+  width: 18rem;
+  height: 5.8rem;
+  background-color: #1e1e1e;
+  color: #fff;
+  font-family: Muli-Bold;
+  font-size: 1.2rem;
+  letter-spacing: 0.1rem;
+}
+
+.button-wrap {
+  display: flex;
+  justify-content: center;
+  margin-top: 3.2rem;
+}
+
+.services-card:hover {
+  background-color: #ee3364;
+}
+
+.services-card:hover > .button-wrap .service-button {
+  background-color: #ee3364;
+  border: 1px solid #fff;
+}
+
+.services-card:hover > * {
+  color: #fff;
+}
+
+.services-card:hover > * span {
+  color: #fff;
+}

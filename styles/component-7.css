@@ -1,0 +1,74 @@
+.section-black {
+  background-color: #1B1B1B;
+}
+
+.black {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  justify-items: center;
+  height: 31rem;
+  gap: 5rem;
+  padding-right: 5rem;
+}
+
+.fa-chart-pie,
+.fa-scale-balanced {
+  color: #FF434B;
+  font-size: 4.5rem;
+  line-height: 77.8%;
+  letter-spacing: 0.05rem;
+}
+
+.black-number {
+  font-family: GlacialIndifference-Bold;
+  font-size: 5.7rem;
+  line-height: 63.1%;
+  color: #fff;
+  margin-top: 3rem;
+}
+
+.black-flex {
+  display: flex;
+  gap: 3.5rem;
+  align-items: center;
+}
+
+.black-small-text {
+  font-family: GlacialIndifference-Regular;
+  font-size: 2.4rem;
+  line-height: 150%;
+  letter-spacing: 0.01rem;
+  color: #707070;
+  margin-top: 1.5rem;
+}
+
+.svg-king,
+.svg-pie,
+.justice-svg {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #2D2C2C;
+  width: 11rem;
+  height: 11rem;
+  border-radius: 50%;
+}
+
+.pie, 
+.king,
+.justice {
+  margin-bottom: 3rem;
+}
+
+.pie-text {
+  margin-right: 0.5rem;
+}
+
+.svg-king {
+  margin-right: 1rem;
+}
+
+.maring-negative {
+  margin-left: -2rem;
+}

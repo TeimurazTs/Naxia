@@ -1,0 +1,60 @@
+@font-face {
+  font-family: Cambay-Bold;
+  src: url("../fonts/Cambay/Cambay-Bold.ttf");
+}
+
+@font-face {
+  font-family: Cambay-BoldItalic;
+  src: url("../fonts/Cambay/Cambay-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: Cambay-Italic;
+  src: url("../fonts/Cambay/Cambay-Italic.ttf");
+}
+
+@font-face {
+  font-family: Cambay-Regular;
+  src: url("../fonts/Cambay/Cambay-Regular.ttf");
+}
+
+@font-face {
+  font-family: GlacialIndifference-Bold;
+  src: url("../fonts/glacial-indifference/GlacialIndifference-Bold.otf");
+}
+
+@font-face {
+  font-family: GlacialIndifference-Italic;
+  src: url("../fonts/glacial-indifference/GlacialIndifference-Italic.otf");
+}
+
+@font-face {
+  font-family: GlacialIndifference-Regular;
+  src: url("../fonts/glacial-indifference/GlacialIndifference-Regular.otf");
+}
+
+@font-face {
+  font-family: Muli;
+  src: url("../fonts/muli/Muli.ttf");
+}
+
+@font-face {
+  font-family: Muli-Bold;
+  src: url("../fonts/muli/Muli-Bold.ttf");
+}
+
+@font-face {
+  font-family: Muli-BoldItalic;
+  src: url("../fonts/muli/Muli-BoldItalic.ttf");
+}
+
+@font-face {
+  font-family: Muli-Regular;
+  src: url("../fonts/muli/Muli-Regular.ttf");
+}
+
+
+@font-face {
+  font-family: Poppins-ExtraBold;
+  src: url("../fonts/Poppins/Poppins-ExtraBold.ttf");
+}
