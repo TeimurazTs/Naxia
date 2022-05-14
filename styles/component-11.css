@@ -1,0 +1,61 @@
+.section-salima {
+  display: grid;
+  grid-template-columns: 39rem 38.568rem 38.568rem 38.455rem 38.455rem;
+  justify-content: center;
+}
+
+.lora {
+  font-family: GlacialIndifference-Bold;
+  font-size: 3.506rem;
+  color: #ffffff;
+  margin-bottom: 1rem;
+}
+
+.ux-desing {
+  font-family: Muli;
+  font-size: 1.804rem;
+  color: #ffffff;
+  text-align: center;
+  letter-spacing: 0.09019999999999999;
+  padding-right: 1rem;
+  margin-bottom: 3.5rem;
+}
+
+.salima-box {
+  padding: 27.51rem 7rem 15.4rem 9rem;
+  height: 57.4rem;
+  border: 1rem solid #242424;
+  background-color: #ee3364;
+  opacity: 0;
+}
+
+.salima-box:hover {
+  opacity: 100;
+}
+
+.svg-salima {
+  display: flex;
+  justify-content: center;
+  padding-right: 1rem;
+  gap: 1.5rem;
+}
+
+.salima-wrap:nth-child(1) {
+  background-color: #BBBBBB;
+}
+
+.salima-wrap:nth-child(2) {
+  background-color: #D0D0D0;
+}
+
+.salima-wrap:nth-child(3) {
+  background-color: #BBBBBB;
+}
+
+.salima-wrap:nth-child(4) {
+  background-color: #D0D0D0;
+}
+
+.salima-wrap:nth-child(5) {
+  background-color: #BBBBBB;
+}

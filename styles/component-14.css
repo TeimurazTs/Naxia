@@ -1,0 +1,46 @@
+.footer {
+  background-color: #282828;
+  text-align: center;
+  padding: 12.3rem 0 0 0;
+}
+
+.footer-sm-text {
+  font-family: Muli-Regular;
+  font-size: 1.7rem;
+  color: #A5A5A5;
+  width: 61.3rem;
+  margin: 0 auto;
+  letter-spacing: 0.289;
+  line-height: 158.8%;
+  margin-bottom: 5rem;
+}
+
+.logo-text-special {
+  font-size: 5.542rem;
+  padding-right: 1rem;
+  margin-bottom: 3.2rem;
+}
+
+.icon-flex-footer {
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  padding-right: 2rem;
+  margin-bottom: 6.9rem;
+}
+
+.last-castle {
+  background-color: #171717;
+  padding: 2.7rem 0 3.6rem 0;
+}
+
+.last-p {
+  font-family: Muli;
+  font-size: 1.5rem;
+  color: #A0A8B7;
+  padding-right: 0.5rem;
+}
+
+.white {
+  color: #fff;
+}
