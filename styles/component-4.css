@@ -1,7 +1,12 @@
+.section-2-container {
+  width: 119rem;
+  margin: 0 auto;
+}
+
 .cards-text {
   font-family: GlacialIndifference-Bold;
   font-size: 4rem;
-  color: #2E2E2E;
+  color: #2e2e2e;
   text-align: center;
   line-height: 125%;
   margin-right: -2.5%;
@@ -18,13 +23,10 @@
 
 .box-cards {
   display: flex;
-  gap: 3.7rem;
-  justify-content: center;
 }
 
 .card {
-  background-color: #EDF7FF;
-  padding: 4.4rem 2.7rem 5rem 3.5rem;
+  background-color: #edf7ff;
   margin-bottom: 8.7rem;
 }
 
@@ -59,12 +61,49 @@
 
 .button-cards {
   border: none;
-  background-color: #EE3364;
-  color: #FFFFFF;
+  background-color: #ee3364;
+  color: #ffffff;
   font-family: Muli-bold;
   font-size: 1.4rem;
   width: 20.3rem;
   height: 6.5rem;
   margin-left: 42.1%;
   margin-bottom: 14rem;
+}
+
+.card-1 {
+  padding: 4.4rem 1rem 5rem 4.5rem;
+  box-sizing: border-box;
+  margin-left: 1rem;
+}
+
+.card-2 {
+  padding: 4.4rem 2.5rem 5rem 6rem;
+  box-sizing: border-box;
+  margin-left: 3.5rem;
+  margin-right: 2rem;
+}
+
+.card-3 {
+  padding: 4.4rem 2.5rem 5rem 3rem;
+  box-sizing: border-box;
+}
+
+
+.card:hover {
+  background-color: #fff;
+  border: 3px solid #EE3364;
+}
+
+.card:hover > .background-white {
+  background-color: #EE3364;
+}
+
+.card:hover> .cards-img {
+  color: #fff;
+  fill: #fff;
+}
+
+.card:hover > .background-white svg {
+  filter: brightness(0) invert(1)
 }

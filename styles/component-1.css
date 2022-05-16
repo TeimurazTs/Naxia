@@ -15,16 +15,16 @@
 
 .header-sm-icons {
   display: flex;
-  gap: 2rem;
+  gap: 2.35rem;
   align-items: center;
 }
 
-.header-sm-icons img:nth-child(2) {
-  filter: brightness(0.65);
+.header-sm-icons svg:hover {
+  opacity: 1;
 }
 
-.header-sm-icons img:hover {
-  filter: brightness(0.5);
+.header-sm-icons svg {
+  opacity: 0.4;
 }
 
 .email-icon {
