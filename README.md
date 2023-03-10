@@ -1,2 +1,1 @@
-Twitter
-Button
+Deploy - https://teimurazts.github.io/Naxia/
